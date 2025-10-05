@@ -25,8 +25,6 @@ I actively contribute to open-source by:
 - 🎉 Participating in events like Hacktoberfest  
 - 🌟 Making small code or no-code contributions to help projects grow  
 
-*Every small contribution counts!* 💪
-
 ---
 
 ## 📈 GitHub Stats
