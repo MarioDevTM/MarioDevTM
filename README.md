@@ -36,9 +36,11 @@ I actively contribute to open-source by:
 
 ## 🎯 Currently Learning
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
-Exploring front-end frameworks, dynamic web apps, and open-source collaboration. 🌐
+- 🖥️ **Contributing to Open-Source**  
+- 🐍 **Python**  
+- 🛡️ **Cybersecurity (Blue Team)**  
+- ☁️ **Cloud (Azure)**  
+- 💻 **JavaScript, HTML, CSS**
 
 ---
 
