@@ -4,6 +4,8 @@ I'm a passionate developer always **willing to learn** and contribute to open-so
 I enjoy exploring new technologies and helping the community in any way I can. 🌱
 
 ![Coding GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Learning GIF](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)
+
 
 ---
 
@@ -56,5 +58,3 @@ Exploring front-end frameworks, dynamic web apps, and open-source collaboration.
 
 ![Visitor Count](https://profile-counter.glitch.me/MarioDevTM/count.svg)
 
-
-![Learning GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
