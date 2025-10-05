@@ -3,9 +3,8 @@
 I'm a passionate developer always **willing to learn** and contribute to open-source projects.  
 I enjoy exploring new technologies and helping the community in any way I can. 🌱
 
-![Coding GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
-
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 ---
 
