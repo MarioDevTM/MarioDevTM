@@ -56,10 +56,5 @@ Exploring front-end frameworks, dynamic web apps, and open-source collaboration.
 
 ![Visitor Count](https://profile-counter.glitch.me/MarioDevTM/count.svg)
 
----
-
-## 💬 Fun Fact
-
-I am **always willing to learn**, whether it's new languages, frameworks, or ways to improve my contributions! 🚀
 
 ![Learning GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
