@@ -3,7 +3,7 @@
 I'm a passionate developer always **willing to learn** and contribute to open-source projects.  
 I enjoy exploring new technologies and helping the community in any way I can. 🌱
 
-![Coding GIF](https://media.giphy.com/media/JqDeF8nGxb1Kk/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
 
 ---
 
