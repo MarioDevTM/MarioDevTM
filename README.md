@@ -47,7 +47,7 @@ I actively contribute to open-source by:
 - 🖥️ **Contributing to Open-Source**  
 - 🐍 **Python**  
 - 🛡️ **Cybersecurity (Blue Team)**  
-- ☁️ **Cloud (Azure)**  
+- ☁️ **Cloud (AWS)**  
 - 💻 **JavaScript, HTML, CSS**
 
 ---
