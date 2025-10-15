@@ -39,7 +39,7 @@ I actively contribute to open-source by:
 
 ![MarioDevTM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioDevTM&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioDevTM&layout=compact&theme=radical)
-
+[![@mariodevtm's Holopin board](https://holopin.io/api/user/board?user=mariodevtm)](https://holopin.io/@mariodevtm)
 ---
 
 ## 🎯 Currently Learning
